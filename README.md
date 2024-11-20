@@ -100,5 +100,4 @@ Aligned with the Smart India Hackathon's cybersecurity theme, SecuriScan address
 
 ## Screenshots
 
-![[Pasted image 20241120213357.png]]
 ![alt text](image.png)
